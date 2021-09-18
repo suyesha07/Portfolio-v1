@@ -10,7 +10,7 @@
 ✔️ Experience\
 ✔️ Education\
 
-To view a live example, **[click here](https://suuyesha07.github.io/portfolio/)**
+To view a live example, **[click here](https://suyesha07.github.io/portfolio/)**
 
 # References 👏🏻
 
