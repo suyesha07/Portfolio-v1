@@ -1,5 +1,5 @@
 <p align="center"> 
-    <img src="image.png" align="center" height="350"></img>
+    <img src="image.png.png" align="center" height="350"></img>
 </p>
 
 # Sections 📑
